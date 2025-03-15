@@ -47,3 +47,5 @@ docker-compose.override.yml
 # Mac configuration files
 .DS_Store
 
+# database local
+mysql-data/
